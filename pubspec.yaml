@@ -45,6 +45,8 @@ dependencies:
   async: ^2.9.0
   provider: ^6.0.4
   velocity_x: ^3.0.0
+  shared_preferences: ^0.5.5
+  freezed: ^2.3.2
 
 dev_dependencies:
   flutter_test:
